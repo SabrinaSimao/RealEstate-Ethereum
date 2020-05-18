@@ -1,4 +1,8 @@
 # RealEstate-Ethereum
+
+@Insper
+Sabrina Simao, Leonardo Medeiros, Patrick Wiegerinck, Marcos Minomo
+
 ## Ethereum project for Real Estate trades
 
 #### The intention of this project is to make a Ethereum blockchain system that will ease the transactions of real state properties between seller and buyer without a middle man
