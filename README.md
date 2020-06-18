@@ -1,7 +1,7 @@
 # RealEstate-Ethereum
 
 @Insper
-Sabrina Simao, Leonardo Medeiros, Patrick Wiegerinck, Marcos Minomo
+Sabrina Simao, Leonardo Medeiros, Patrick Wiegerinck
 
 ## Ethereum project for Real Estate trades
 
